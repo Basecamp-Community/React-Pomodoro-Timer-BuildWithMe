@@ -16,6 +16,7 @@ This project is a part of **#BuildWithMe** weekly workshop organized by [Basecam
 - [Heroku 🚀](https://www.heroku.com/)
 
 ## Workshop Resources
+- [React Basics Presentation Slides](https://tinyurl.com/2zzhdnx3)
 - [CSS Gist](https://gist.github.com/mindninjaX/4e233213ca12a561140596227580f050)
 - [Download Git](https://git-scm.com/downloads)
 - [Download VS Code](https://code.visualstudio.com/download)
